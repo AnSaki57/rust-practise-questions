@@ -9,7 +9,7 @@ A set of questions for Rust lang
 
 ## About
 
-The book is written so that a newbie [Rustaceans](https://www.rustaceans.org/) can easily dive in the language and get
+The book is written so that a newbie [Rustacean](https://www.rustaceans.org/) can easily dive in the language and get
 productive as fast as possible
 
 ### What this book is not
@@ -38,7 +38,7 @@ Though help will be provided in some questions as a form of `hint`
 
 #### How can I be sure whether a question has a solution or not ?
 
-Each and every question that appears in the book has been solved in at least in 1 way before making it's way in the book
+Each and every question that appears in the book has been solved in at least in 1 way before making its way into the book
 
 #### Where can I find help ?
 
@@ -51,7 +51,7 @@ Some of the sources that are the most helpful are :
 #### I am unable to solve so-and-so question, why ?
 
 Mostly because you may be new to the language or to programming world itself, try again and keep on learning, you will
-be able to eventually solve them with ease
+eventually be able to solve them with ease
 
 ## License
 
